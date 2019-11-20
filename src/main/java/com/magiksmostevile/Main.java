@@ -1,4 +1,4 @@
-
+package com.magiksmostevile;
 
 import com.magiksmostevile.entity.EntityVampireBat;
 import com.magiksmostevile.entity.render.RenderVampireBat;
